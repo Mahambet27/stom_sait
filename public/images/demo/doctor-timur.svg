@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640">
+  <defs><linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#3ee7ff"/><stop offset=".5" stop-color="#63f7c8"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient></defs>
+  <rect width="640" height="640" rx="36" fill="#080b12"/>
+  <circle cx="320" cy="270" r="190" fill="url(#g)" opacity=".35"/>
+  <circle cx="320" cy="230" r="94" fill="#f8fafc"/>
+  <path d="M164 560c28-120 284-120 312 0" fill="#f8fafc"/>
+  <path d="M232 245c26-85 153-80 176 0-42-20-120-20-176 0z" fill="#172033"/>
+  <text x="320" y="596" text-anchor="middle" fill="#ffffff" font-family="Arial" font-size="28" font-weight="700">Демо-фото</text>
+</svg>
